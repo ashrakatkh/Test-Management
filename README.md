@@ -8,16 +8,15 @@ Follow these steps to set up the project:
 
    ```shell
    virtualenv myEnv -p python3
-   ```shell
 
 2. Activate the virtual environment:
 
   ```shell
  source myEnv/bin/activate
 
-3. Install Flask using pip:
 
- ```shell
+3. Install Flask using pip:
+  ```shell
   pip install flask
 
 ##Create Database:
